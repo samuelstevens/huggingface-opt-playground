@@ -1,0 +1,11 @@
+{"checkpoint":"facebook/opt-30b","result":0.7155963302752294}
+{"checkpoint":"facebook/opt-13b","result":0.6617737003058104}
+{"checkpoint":"facebook/opt-6.7b","result":0.6388379204892967}
+{"checkpoint":"facebook/opt-2.7b","result":0.5449541284403669}
+{"checkpoint":"facebook/opt-1.3b","result":0.5892966360856269}
+{"checkpoint":"facebook/opt-350m","result":0.5596330275229358}
+{"checkpoint":"facebook/opt-125m","result":0.5599388379204893}
+{"checkpoint":"gpt2-large","result":0.6155963302752293}
+{"checkpoint":"gpt2-medium","result":0.5929663608562691}
+{"checkpoint":"gpt2","result":0.5400611620795107}
+{"checkpoint":"gpt2-xl","result":0.5978593272171254}

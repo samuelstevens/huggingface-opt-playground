@@ -1,0 +1,13 @@
+{
+  "physical": "The northern cardinal is a mid-sized songbird with a body length of 21–23.5 cm (8.3–9.3 in) and a wingspan of 25–31 cm (9.8–12.2 in). The adult weighs from 33.6–65 g (1.19–2.29 oz), with an average 44.8 g (1.58 oz). The male averages slightly larger than the female. The adult male is a brilliant crimson red color with a black face mask over the eyes, extending to the upper chest. The color becomes duller and darker on the back and wings. The female is fawn-colored, with mostly grayish-brown tones and a slight reddish tint on the wings, crest, and tail feathers. The face mask of the female is gray to black and is less defined than that of the male. Both sexes possess prominent raised crests and bright coral-colored beaks. The beak is cone-shaped and strong. Young birds, both male and female, show coloring similar to the adult female until the fall, when they molt and grow adult feathers. They are brown above and red-brown below, with brick-colored crest, forehead, wings, and tail. The legs and feet are a dark pink-brown. The iris of the eye is brown. The plumage color of the males is produced from carotenoid pigments in the diet. Coloration is produced from both red pigments and yellow carotenoid pigments. Northern cardinal males normally metabolize carotenoid pigments to create plumage pigmentation of a color different from the ingested pigment. When fed only yellow pigments, males become a pale red color. A few \"yellow morph\" cardinals, a trait called xanthochroism, lack the enzyme to do this conversion. Their beak and feathers (except for black face mask) are yellow. Sightings are rare.",
+  "traits": {
+    "length": "21-23.5 cm (8.3-9.3 in)",
+    "wingspan": "25-31cm (9.8-12.2 in)",
+    "weight": "33.6-65g (1.19-2.29 oz)",
+    "average weight": "44.8 g (1.58 oz)",
+    "male color": "brilliant crimson red",
+    "female color": "fawn-colored, grayish-brown",
+    "beak": "cone-shaped and strong",
+    "legs": "dark pink-brown"
+  }
+}

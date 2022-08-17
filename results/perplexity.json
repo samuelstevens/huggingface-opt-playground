@@ -1,0 +1,12 @@
+{
+  "gpt2-512-wikitext": 25.173688888549805,
+  "gpt2-medium-512-wikitext": 18.46725082397461,
+  "gpt2-large-512-wikitext": 16.44438362121582,
+  "facebook/opt-125m-512-wikitext": 32.525733947753906,
+  "facebook/opt-350m-512-wikitext": 21.90788459777832,
+  "facebook/opt-1.3b-512-wikitext": 13.115970611572266,
+  "facebook/opt-2.7b-512-wikitext": 11.154399871826172,
+  "facebook/opt-6.7b-512-wikitext": 9.660855293273926,
+  "facebook/opt-13b-512-wikitext": 8.950477600097656,
+  "facebook/opt-30b-512-wikitext": 8.412223815917969
+}

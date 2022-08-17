@@ -1,0 +1,11 @@
+{
+  "physical": "The blue jay measures 22–30 cm (9–12 in) from bill to tail and weighs 70–100 g (2.5–3.5 oz), with a wingspan of 34–43 cm (13–17 in). Consistent with Bergmann's rule, jays from Connecticut averaged 92.4 g (3.26 oz) in mass, while jays from warmer southern Florida averaged 73.7 g (2.60 oz). There is a pronounced crest on the head, a crown of feathers, which may be raised or lowered according to the bird's mood. When excited or aggressive, the crest will be fully raised. When frightened, the crest bristles outwards, brushlike. When the bird is feeding among other jays or resting, the crest is flattened on the head.\n\nIts plumage is lavender-blue to mid-blue in the crest, back, wings, and tail, and its face is white. The underside is off-white and the neck is collared with black which extends to the sides of the head. The wing primaries and tail are strongly barred with black, sky-blue, and white. The bill, legs, and eyes are all black. Males and females are almost identical, but the male is slightly larger. The black plumage on its nape, face, and throat varies extensively between individuals; it is believed to assist in recognition between individuals.\n\nAs with most other blue-hued birds, the blue jay's coloration is not derived from pigments but is the result of light interference due to the internal structure of the feathers; if a blue feather is crushed, the blue disappears because the structure is destroyed. The actual pigment in its feathers is melanin. This is referred to as structural coloration.",
+  "traits": {
+    "length": "22-30 cm (9-12 in)",
+    "wingspan": "34-43 cm (13-17 in)",
+    "weight": "70-100g (2.5-3.5 oz)",
+    "color": "lavender-blue to mid-blue",
+    "bill": "black",
+    "legs": "black"
+  }
+}
